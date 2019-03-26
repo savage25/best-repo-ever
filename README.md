@@ -2,4 +2,4 @@
 
 This is my first GIT experience.
 
-Yay!
+Yay! This is great.
